@@ -642,20 +642,12 @@ https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Kids"",Kids Pang TV
 https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=JoNYGj1bF5swTq531QQg&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-
-
-
-
-
-
-
-
-
-
-
-################----- TV SUNNAH -----###############
-
-
+################
+################
+################
+################----- TV SUNNAH -----##############
+################
+################
 
 #EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="TV SUNNAH" resolution="640@360",ASHIIL TV 2
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
@@ -673,25 +665,25 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.artvisi.or.id/assets/img/artvisi.png" group-title="TV SUNNAH" resolution="1280@720",ARTVISI
 https://streaming.yufid.com/hls/artvisi.m3u8
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png" group-title="RADIO SUNNAH",Radio Al Iman
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png" group-title="TV SUNNAH",Radio Al Iman
 https://radioislamindonesia.com/aliman.mp3?_=2
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png" group-title="RADIO SUNNAH",Radio RODJA
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png" group-title="TV SUNNAH",Radio RODJA
 https://radioislamindonesia.com/rodja-low.mp3?_=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0RjrdJtCe7ie0XeuLQ9lDW4-cQrgfZSqAlQ&usqp=CAU" group-title="RADIO SUNNAH",Radio Kita Cirebon
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0RjrdJtCe7ie0XeuLQ9lDW4-cQrgfZSqAlQ&usqp=CAU" group-title="TV SUNNAH",Radio Kita Cirebon
 https://sunnah.radio.yufid.com/;stream.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmkvWaBxEJtWwMoOltHm5bxP28wTLiv1bSvqC0NLMRnkRfrgFTNtkLdRr&s=10" group-title="RADIO SUNNAH",Radio KSA Sunnah
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmkvWaBxEJtWwMoOltHm5bxP28wTLiv1bSvqC0NLMRnkRfrgFTNtkLdRr&s=10" group-title="TV SUNNAH",Radio KSA Sunnah
 https://radiosunna.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tQ-zo_la_JpWWfNtxtT-gROFNtB8z68iqg&usqp=CAU" group-title="RADIO SUNNAH",Radio Ruqyah
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tQ-zo_la_JpWWfNtxtT-gROFNtB8z68iqg&usqp=CAU" group-title="TV SUNNAH",Radio Ruqyah
 https://stream-40.zeno.fm/pz72fq579f0uv?zs=Ul5sqtHcSt2egYs9SrjFzw
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/amoeba.png" group-title="RADIO SUNNAH",Radio Amoeba FM
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/amoeba.png" group-title="TV SUNNAH",Radio Amoeba FM
 http://live.syaria.net:9300/;?1672826390470
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiodai.png" group-title="RADIO SUNNAH",Radio DAI
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiodai.png" group-title="TV SUNNAH",Radio DAI
 http://pu.klikhost.com:7204/stream?1672828237600
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="Religi" resolution="1280@720",Al Wafa Tarim TV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="TV SUNNAH" resolution="1280@720",Al Wafa Tarim TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mqtv.png" group-title="Religi" resolution="1280@720",MQTV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mqtv.png" group-title="TV SUNNAH" resolution="1280@720",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png" group-title="Religi" resolution="1280@720",Madani TV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png" group-title="TV SUNNAH" resolution="1280@720",Madani TV
 htt
 
 
