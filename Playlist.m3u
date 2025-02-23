@@ -655,7 +655,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 #EXTINF:-1 tvg-logo="https://youtv.id/data/channel/dei-kids-tv_20230112175023.jpeg" group-title="TV SUNNAH" resolution="1280@720",Dei Kids
 https://e.siar.us/live/deikidstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="TV SUNNAH" resolution="854@480",MAKKAH TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg6L2H7kUk_esZVdJ66T6oX0TwEqTRxT9Xg&usqp=CAU" group-title="TV SUNNAH" resolution="854@480",MAKKAH TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0f6KAwh2Jwc5tBIjM88ZVxOOT9w1F-PD3XA&s" group-title="TV SUNNAH" resolution="1280@720",MADINAH TV
